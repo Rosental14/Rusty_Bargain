@@ -16,11 +16,13 @@ O objetivo deste projeto é construir modelos (Regressão Linear, Floresta Aleat
 
 1. **Preparação dos Dados:**
    - Download e visualização dos dados.
-   - Limpeza e pré-processamento dos dados, incluindo seleção de características, tratamento de valores ausentes, codificação de características categóricas e transformação de características numéricas e ordinais.
+   - Limpeza e pré-processamento dos dados, incluindo seleção de características, tratamento de valores ausentes, codificação de características categóricas e transformação de características numéricas e ordinais.  
+  <br>
 
 2. **Treinamento de Modelos:**
    - Treinamento de diferentes modelos com vários hiperparâmetros.
    - Comparação de métodos de gradient boosting com floresta aleatória e regressão linear.
+<br>
 
 3. **Análise dos Modelos:**
    - Avaliação da velocidade e qualidade dos modelos.
